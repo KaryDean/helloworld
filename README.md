@@ -23,9 +23,13 @@
 粗体 **粗体**
 
 代码引用
-' hello world'
+`hello world`
 
-'''
+```
 hello world
 hello china 
-'''
+```
+
+表格
+|table1     |Table2      |table3  |
+| --------- |:----------:| ------:|
